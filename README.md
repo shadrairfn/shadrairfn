@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shadrairfn
-- 👀 I’m interested in AI Programming
+- 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Python Language
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me irfanshadra7@gmail.com
