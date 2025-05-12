@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Machine Learning
 - 🌱 I’m currently learning Python and Java Language
 - 💞️ I’m looking to collaborate on -
-- 📫 How to reach me irfanshadra7@gmail.com
+- 📫 How to reach me shadrairfn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: -
 
